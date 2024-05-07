@@ -13,7 +13,7 @@
     "allowImportingTsExtensions": true,
     "verbatimModuleSyntax": true,
     "noEmit": true,
-    "esModuleInterop":true,
+    "esModuleInterop":false,
 
     // Best practices
     "strict": true,
