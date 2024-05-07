@@ -23,7 +23,7 @@
     "mysql2": "^3.9.7"
   },
   "scripts": {
-     "start": "tsc && node index.js",
+     "start": "tsc && node index.ts",
     "generate": "drizzle-kit generate:mysql",
     "migrate": "bun run pkg/migrations/migrate.ts",
     "dev": "bun run --watch index.ts",
