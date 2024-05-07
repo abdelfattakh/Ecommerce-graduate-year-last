@@ -1,6 +1,6 @@
 {
   "name": "handmade-backend",
-  "module": "index.ts",
+  "module": "index.js",
   "type": "commonjs",
   "devDependencies": {
     "@types/bun": "latest",
